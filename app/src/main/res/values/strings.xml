@@ -2,5 +2,6 @@
     <string name="app_name">third</string>
 
     <string name="name">Name</string>
+    <string name="source">vic.au</string>
 
 </resources>
